@@ -18,5 +18,6 @@ https://airfree.space/auth/register?code=fac50cad2f
 https://www.mojie.me/#/register?code=NQlfUL1c
 #### 飞鸟云(可先免费订阅，之后也可以按流量购买)
 https://feiniaoyun.xyz/#/register?code=nJx4Rjq8
-
+#### 一元机场(年付11)
+https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ
 #### 如介意，可在注册时去掉邀请码.
