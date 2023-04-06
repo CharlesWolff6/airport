@@ -12,6 +12,8 @@ https://52zm.cc/#/register?code=qozvb7uo
 
 ### 除此以外还有其他的平台大家都可以试试：
 
+#### 八方云平台(价格也不贵，可以包流量):
+http://bafangyun.vip/#/register?code=KlQ19cWU
 #### airfree平台(可以白嫖):
 https://airfree.space/auth/register?code=fac50cad2f
 #### 魔界(可以根据流量购买)
