@@ -34,5 +34,5 @@ https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ
 | [冲浪猫](https://uuclm.net/#/register?code=oFspbShz) | 暂无 | 9.9包200G-39.99包1024G | 26.99包200G-118.99包1024G | 99.99包200G-399.99包1024G | 55.88元384G-308包5120G | https://uuclm.net/#/register?code=oFspbShz | 无 |
 | [Airfree](https://airfree.space/auth/register?code=fac50cad2f) | 1元3天20G | 8元80G-12元200G | 36元660G | 140包3000G-256包6660G | 暂无 | https://airfree.space/auth/register?code=fac50cad2f | 无 |
 | [魔界](https://www.mojie.me/#/register?code=NQlfUL1c) | 1元试用2G不限时 | 暂无 | 暂无 | 暂无 | 14.9包130G-688包10T | https://www.mojie.me/#/register?code=NQlfUL1c | 无 |
-| [飞鸟云](https://feiniaoyun.xyz/#/register?code=nJx4Rjq8) | 1元试用1G | 10包239G | 16包120G-28包239G | 60包120G-99包388G | 暂无 | https://feiniaoyun.xyz/#/register?code=nJx4Rjq8 | 无 |
-| [一元机场](https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ) | 1元试用1G | 10包239G | 16包120G-28包239G | 60包120G-99包388G | 暂无 | https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ | 无 |
+| [飞鸟云](https://feiniaoyun.xyz/#/register?code=nJx4Rjq8) | 1元试用2G不限时 | 10包200G-20包600G | 24包200G-48包600G | 96包200G-192包600G | 10包200G-300包10T | https://feiniaoyun.xyz/#/register?code=nJx4Rjq8 | 无 |
+| [一元机场](https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ) | 暂无 | 4包4000G-6元包8000G | 暂无 | 11包100G,39包4000G-59包8000G | 暂无 | https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ | 无 |
