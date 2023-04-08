@@ -12,7 +12,7 @@ https://52zm.cc/#/register?code=qozvb7uo
 
 ### 除此以外还有其他的平台大家都可以试试：
 
-#### 八方云平台(价格也不贵，可以包流量):
+#### 八方云平台(价格也不贵，可以月付5元或年付20元，包流量30元1000GB):
 http://bafangyun.vip/#/register?code=KlQ19cWU
 #### 冲浪猫（月付9块9，包流量55元384G）：
 https://uuclm.net/#/register?code=oFspbShz
