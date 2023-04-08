@@ -2,7 +2,7 @@
 ##翻墙机场推荐
 
 ### 优先推荐：
-### efcloud平台(性价比贼高，可季度付3元，不定期会有免费白嫖名额，建议年付10块，快的飞起)：
+### efcloud平台(性价比贼高，不定期会有air套餐建议年付10块，快的飞起，涨价啦月付9元，包流量20元100GB)：
 https://www.efcloud.net/#/register?code=HK0DBC31
 
 ### 芝麻云平台，被推荐的最多，可以解锁Netflix，现在充值满99元还可以赠送ChatGPT账号：
@@ -12,10 +12,10 @@ https://52zm.cc/#/register?code=qozvb7uo
 
 ### 除此以外还有其他的平台大家都可以试试：
 
-#### 冲浪猫（月付9块9，包流量55元384G）：
-https://uuclm.net/#/register?code=oFspbShz
 #### 八方云平台(价格也不贵，可以包流量):
 http://bafangyun.vip/#/register?code=KlQ19cWU
+#### 冲浪猫（月付9块9，包流量55元384G）：
+https://uuclm.net/#/register?code=oFspbShz
 #### airfree平台(可以白嫖):
 https://airfree.space/auth/register?code=fac50cad2f
 #### 魔界(可以根据流量购买)
