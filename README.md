@@ -28,9 +28,9 @@ https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ
 
 | 名称 | 免费/试用套餐 | 包月套餐 | 包季度套餐 | 包年套餐 | 包流量套餐 | 邀请链接 | 备注 |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :-----|
-| EFCloud | 暂无 | 9 | 27 | 90 | 20元100G | https://www.efcloud.net/#/register?code=HK0DBC31 | 无 |
-| 芝麻云 | 1元试用 | 10 | 16-28 | 60-99 | 暂无 | https://52zm.cc/#/register?code=qozvb7uo | 无 |
-| 八方云 | 暂无 | 5-10 | 单元格 | 19.9-110 | 29.9元1000G | [八方云](http://bafangyun.vip/#/register?code=KlQ19cWU) | 无 |
-| 冲浪猫 | 暂无 | 9.9-39.99 | 26.99-118.99 | 99.99-399.99 | 55.88元384G | https://uuclm.net/#/register?code=oFspbShz | 无 |
-| Airfree | 暂无 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 无 |
-| 魔界 | 暂无 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 无 |
+| [EFCloud](https://www.efcloud.net/#/register?code=HK0DBC31) | 暂无 | 9 | 27 | 90 | 20元100G | https://www.efcloud.net/#/register?code=HK0DBC31 | 无 |
+| [芝麻云](https://52zm.cc/#/register?code=qozvb7uo) | 1元试用 | 10 | 16-28 | 60-99 | 暂无 | https://52zm.cc/#/register?code=qozvb7uo | 无 |
+| [八方云](http://bafangyun.vip/#/register?code=KlQ19cWU) | 暂无 | 5-10 | 单元格 | 19.9-110 | 29.9元1000G | http://bafangyun.vip/#/register?code=KlQ19cWU | 无 |
+| [冲浪猫](https://uuclm.net/#/register?code=oFspbShz) | 暂无 | 9.9-39.99 | 26.99-118.99 | 99.99-399.99 | 55.88元384G | https://uuclm.net/#/register?code=oFspbShz | 无 |
+| [Airfree](https://airfree.space/auth/register?code=fac50cad2f) | 暂无 | 单元格 | 单元格 | 单元格 | 单元格 | https://airfree.space/auth/register?code=fac50cad2f | 无 |
+| [魔界](https://www.mojie.me/#/register?code=NQlfUL1c) | 暂无 | 单元格 | 单元格 | 单元格 | 单元格 | https://www.mojie.me/#/register?code=NQlfUL1c | 无 |
