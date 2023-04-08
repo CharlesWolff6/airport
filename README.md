@@ -1,6 +1,19 @@
 # airport
 ##翻墙机场推荐
 
+### 汇总了一下各个机场的套餐对比，请参考：
+| 名称 | 免费/试用套餐 | 包月套餐 | 包季度套餐 | 包年套餐 | 包流量套餐 | 邀请链接 | 优惠码 |
+| :----- | :----- | :----- | :----- | :----- | :----- | :----- | :-----|
+| [EFCloud](https://www.efcloud.net/#/register?code=HK0DBC31) | 暂无 | 9元350G-24元1024G | 27元350G-72元1024G | 90元350G-240元1024G | 20元100G | https://www.efcloud.net/#/register?code=HK0DBC31 | 无 |
+| [芝麻云](https://52zm.cc/#/register?code=qozvb7uo) | 1元试用1G | 10元239G | 16元120G-28元239G | 60元120G-99元388G | 暂无 | https://52zm.cc/#/register?code=qozvb7uo | 无 |
+| [八方云](http://bafangyun.vip/#/register?code=KlQ19cWU) | 暂无 | 5元800G-10元2000G | 无 | 19.9元800G-110元2000G | 29.9元1000G-100元6000G | http://bafangyun.vip/#/register?code=KlQ19cWU | bafang |
+| [冲浪猫](https://uuclm.net/#/register?code=oFspbShz) | 暂无 | 9.9元200G-39.99元1024G | 26.99元200G-118.99元1024G | 99.99元200G-399.99元1024G | 55.88元384G-308元5120G | https://uuclm.net/#/register?code=oFspbShz | 无 |
+| [Airfree](https://airfree.space/auth/register?code=fac50cad2f) | 1元3天20G | 8元80G-12元200G | 36元660G | 140元3000G-256元6660G | 暂无 | https://airfree.space/auth/register?code=fac50cad2f | 85OFF91b22a25 |
+| [魔界](https://www.mojie.me/#/register?code=NQlfUL1c) | 1元试用2G不限时 | 无 | 无 | 无 | 14.9元130G-688元10T | https://www.mojie.me/#/register?code=NQlfUL1c | 无 |
+| [飞鸟云](https://feiniaoyun.xyz/#/register?code=nJx4Rjq8) | 1元试用2G不限时 | 10元200G-20元600G | 24元200G-48元600G | 96元200G-192元600G | 10元200G-300元10T | https://feiniaoyun.xyz/#/register?code=nJx4Rjq8 | 无 |
+| [一元机场](https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ) | 暂无 | 4元4000G-6元8000G | 无 | 11元100G,39元4000G-59元8000G | 无 | https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ | 无 |
+
+
 ### 优先推荐：
 ### efcloud平台(性价比贼高，不定期会有air套餐建议年付10块，快的飞起，涨价啦月付9元，包流量20元100GB)：
 https://www.efcloud.net/#/register?code=HK0DBC31
@@ -12,16 +25,6 @@ https://52zm.cc/#/register?code=qozvb7uo
 
 ### 除此以外还有其他的平台大家都可以试试：
 
-| 名称 | 免费/试用套餐 | 包月套餐 | 包季度套餐 | 包年套餐 | 包流量套餐 | 邀请链接 | 优惠码 |
-| :----- | :----- | :----- | :----- | :----- | :----- | :----- | :-----|
-| [EFCloud](https://www.efcloud.net/#/register?code=HK0DBC31) | 暂无 | 9包350G-24包1024G | 27包350G-72包1024G | 90包350G-240包1024G | 20元100G | https://www.efcloud.net/#/register?code=HK0DBC31 | 无 |
-| [芝麻云](https://52zm.cc/#/register?code=qozvb7uo) | 1元试用1G | 10包239G | 16包120G-28包239G | 60包120G-99包388G | 暂无 | https://52zm.cc/#/register?code=qozvb7uo | 无 |
-| [八方云](http://bafangyun.vip/#/register?code=KlQ19cWU) | 暂无 | 5包800G-10包2000G | 无 | 19.9包800G-110包2000G | 29.9元1000G-100元6000G | http://bafangyun.vip/#/register?code=KlQ19cWU | bafang |
-| [冲浪猫](https://uuclm.net/#/register?code=oFspbShz) | 暂无 | 9.9包200G-39.99包1024G | 26.99包200G-118.99包1024G | 99.99包200G-399.99包1024G | 55.88元384G-308包5120G | https://uuclm.net/#/register?code=oFspbShz | 无 |
-| [Airfree](https://airfree.space/auth/register?code=fac50cad2f) | 1元3天20G | 8元80G-12元200G | 36元660G | 140包3000G-256包6660G | 暂无 | https://airfree.space/auth/register?code=fac50cad2f | 85OFF91b22a25 |
-| [魔界](https://www.mojie.me/#/register?code=NQlfUL1c) | 1元试用2G不限时 | 暂无 | 暂无 | 暂无 | 14.9包130G-688包10T | https://www.mojie.me/#/register?code=NQlfUL1c | 无 |
-| [飞鸟云](https://feiniaoyun.xyz/#/register?code=nJx4Rjq8) | 1元试用2G不限时 | 10包200G-20包600G | 24包200G-48包600G | 96包200G-192包600G | 10包200G-300包10T | https://feiniaoyun.xyz/#/register?code=nJx4Rjq8 | 无 |
-| [一元机场](https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ) | 暂无 | 4包4000G-6元包8000G | 暂无 | 11包100G,39包4000G-59包8000G | 暂无 | https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ | 无 |
 
 #### 八方云平台(价格也不贵，可以月付5元或年付20元，包流量30元1000GB):
 http://bafangyun.vip/#/register?code=KlQ19cWU
