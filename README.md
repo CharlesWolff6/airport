@@ -6,7 +6,7 @@
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :-----|
 | [EFCloud](https://www.efcloud.net/#/register?code=HK0DBC31) | 暂无 | 9元350G-24元1024G | 27元350G-72元1024G | 90元350G-240元1024G | 20元100G | https://www.efcloud.net/#/register?code=HK0DBC31 | 无 |
 | [芝麻云](https://52zm.cc/#/register?code=qozvb7uo) | 1元试用1G | 10元239G | 16元120G-28元239G | 60元120G-99元388G | 暂无 | https://52zm.cc/#/register?code=qozvb7uo | 无 |
-| [八方云](http://bafangyun.vip/#/register?code=KlQ19cWU) | 暂无 | 5元800G-10元2000G | 无 | 12元200G-110元2000G | 8元200G-60元6000G | http://bafangyun.vip/#/register?code=KlQ19cWU | bafang |
+| [八方云](http://bafangyun.vip/#/register?code=KlQ19cWU) | 暂无 | 5元800G-10元2000G | 无 | 12元200G-110元2000G | 8元200G-60元6000G | http://bafangyun.vip/#/register?code=KlQ19cWU | bafang/bafang888 |
 | [冲浪猫](https://uuclm.net/#/register?code=oFspbShz) | 暂无 | 9.9元200G-39.99元1024G | 26.99元200G-118.99元1024G | 99.99元200G-399.99元1024G | 55.88元384G-308元5120G | https://uuclm.net/#/register?code=oFspbShz | 无 |
 | [Airfree](https://airfree.space/auth/register?code=fac50cad2f) | 1元3天20G | 8元80G-12元200G | 36元660G | 140元3000G-256元6660G | 暂无 | https://airfree.space/auth/register?code=fac50cad2f | 85OFF91b22a25 |
 | [魔界](https://www.mojie.me/#/register?code=NQlfUL1c) | 1元试用2G不限时 | 无 | 无 | 无 | 14.9元130G-688元10T | https://www.mojie.me/#/register?code=NQlfUL1c | 无 |
@@ -26,7 +26,7 @@ https://52zm.cc/#/register?code=qozvb7uo
 ### 除此以外还有其他的平台大家都可以试试：
 
 
-#### 八方云平台(价格也不贵，可以月付5元或年付20元，包流量30元1000GB):
+#### 八方云平台(价格也不贵，优惠码bafang888，可以月付5元或年付12元，包流量8元200GB):
 http://bafangyun.vip/#/register?code=KlQ19cWU
 #### 冲浪猫（月付9块9，包流量55元384G）：
 https://uuclm.net/#/register?code=oFspbShz
