@@ -11,7 +11,7 @@
 | [魔界](https://www.mojie.me/#/register?code=NQlfUL1c) | 1元试用2G不限时 | 无 | 无 | 无 | 14.9元130G-688元10T | https://www.mojie.me/#/register?code=NQlfUL1c | 无 |
 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=nJx4Rjq8) | 1元试用2G不限时 | 10元200G-20元600G | 24元200G-48元600G | 96元200G-192元600G | 10元200G-300元10T | https://feiniaoyun.xyz/#/register?code=nJx4Rjq8 | 无 |
 | [一元机场](https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ) | 暂无 | 4元4000G-6元8000G | 无 | 11元100G,39元4000G-59元8000G | 无 | https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ | 无 |
-|~ [八方云，已跑路]~(http://bafangyun.vip/#/register?code=KlQ19cWU) | ~暂无~ | ~5元800G-10元2000G~ | ~无~ | ~12元200G-110元2000G~ | ~8元200G-60元6000G~ | ~http://bafangyun.vip/#/register?code=KlQ19cWU~ | ~bafang/bafang888~ |
+|[~八方云，已跑路~](http://bafangyun.vip/#/register?code=KlQ19cWU) | ~暂无~ | ~5元800G-10元2000G~ | ~无~ | ~12元200G-110元2000G~ | ~8元200G-60元6000G~ | ~http://bafangyun.vip/#/register?code=KlQ19cWU~ | ~bafang/bafang888~ |
 
 
 ### 优先推荐：
