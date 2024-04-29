@@ -4,7 +4,7 @@
 ### 汇总了一下各个机场的套餐对比，请参考：
 | 名称 | 免费/试用套餐 | 包月套餐 | 包季度套餐 | 包年套餐 | 包流量套餐 | 邀请链接 | 优惠码 |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :-----|
-| [EFCloud](https://www.efcloud.net/#/register?code=HK0DBC31) | 暂无 | 9元350G-24元1024G | 27元350G-72元1024G | 90元350G-240元1024G | 20元100G | https://www.efcloud.net/#/register?code=HK0DBC31 | 618 |
+| [EFCloud](https://www.efcloud.net/#/register?code=HK0DBC31) | 暂无 | 9元350G-24元1024G | 27元350G-72元1024G | 90元350G-240元1024G | 20元100G | https://www.efcloud.net/#/register?code=HK0DBC31 | 202405，8折优惠 |
 | [芝麻云](https://52zm.cc/#/register?code=qozvb7uo) | 1元试用1G | 10元239G | 16元120G-28元239G | 60元120G-99元388G | 暂无 | https://52zm.cc/#/register?code=qozvb7uo | 只能通过邀请码注册，0vratejq |
 | [冲浪猫](https://uuclm.net/#/register?code=oFspbShz) | 暂无 | 9.9元200G-39.99元1024G | 26.99元200G-118.99元1024G | 99.99元200G-399.99元1024G | 55.88元384G-308元5120G | https://uuclm.net/#/register?code=oFspbShz | msclm618 |
 | [Airfree](https://airfree.space/auth/register?code=fac50cad2f) | 1元3天20G | 8元80G-12元200G | 36元660G | 140元3000G-256元6660G | 暂无 | https://airfree.space/auth/register?code=fac50cad2f | 85OFF91b22a25 |
