@@ -6,7 +6,7 @@
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :-----|
 | [EFCloud](https://www.easyfastcloud.com/#/register?code=HK0DBC31) | 暂无 | 9元350G-24元1024G | 27元350G-72元1024G | 90元350G-240元1024G | 20元100G | https://www.easyfastcloud.com/#/register?code=HK0DBC31 | 202405，8折优惠截止到5月6日 |
 | [芝麻云](https://52zm.cc/#/register?code=qozvb7uo) | 1元试用1G | 10元239G | 16元120G-28元239G | 60元120G-99元388G | 暂无 | https://52zm.cc/#/register?code=qozvb7uo | 只能通过邀请码注册，0vratejq |
-| [冲浪猫](https://uuclm.net/#/register?code=oFspbShz) | 暂无 | 9.9元200G-39.99元1024G | 26.99元200G-118.99元1024G | 99.99元200G-399.99元1024G | 55.88元384G-308元5120G | https://uuclm.net/#/register?code=oFspbShz | msclm618 |
+| [冲浪猫](https://b.msclm.net/#/register?code=oFspbShz) | 暂无 | 9.9元200G-39.99元1024G | 26.99元200G-118.99元1024G | 99.99元200G-399.99元1024G | 55.88元384G-308元5120G | https://b.msclm.net/#/register?code=oFspbShz | msclm618 |
 | [Airfree](https://airfree.space/auth/register?code=fac50cad2f) | 1元3天20G | 8元80G-12元200G | 36元660G | 140元3000G-256元6660G | 暂无 | https://airfree.space/auth/register?code=fac50cad2f | 85OFF91b22a25 |
 | [魔界](https://www.mojie.me/#/register?code=NQlfUL1c) | 1元试用2G不限时 | 无 | 无 | 无 | 14.9元130G-688元10T | https://www.mojie.me/#/register?code=NQlfUL1c | 无 |
 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=nJx4Rjq8) | 1元试用2G不限时 | 10元200G-20元600G | 24元200G-48元600G | 96元200G-192元600G | 10元200G-300元10T | https://feiniaoyun.xyz/#/register?code=nJx4Rjq8 | 无 |
