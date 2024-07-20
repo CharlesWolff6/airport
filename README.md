@@ -18,7 +18,7 @@
 ### efcloud平台(性价比贼高，新用户会有8折优惠，优惠码new，快的飞起，涨价啦月付9元)：
 ［https://www.easyfastcloud.com/#/register?code=HK0DBC31］
 
-### 芝麻云平台，被推荐的最多，当前能力有限新用户邀请注册，可以解锁Netflix，现在充值满99元还可以赠送ChatGPT账号：
+### 芝麻云平台，24年7月20日更新，停止付费通道，保留部分线路供未到期用户使用：
 https://52zm.cc/#/register?code=qozvb7uo
 
 （备用https://zm.zm123.top）
