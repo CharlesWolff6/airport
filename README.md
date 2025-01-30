@@ -5,10 +5,8 @@
 | 名称 | 免费/试用套餐 | 包月套餐 | 包季度套餐 | 包年套餐 | 包流量套餐 | 邀请链接 | 优惠码 |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :-----|
 | [XSUS](https://xs-us.xyz/register?code=hwARE7sB) | 暂无 | 8元168G | 16元336G | 20元420G | 58元188G-220元1024G | https://xs-us.xyz/register?code=hwARE7sB | NewYear2025，85折新用户优惠 |
-
-| [EFCloud 失联了](https://inv.easyfastcloud.com/#/register?code=HK0DBC31) | 暂无 | 6元100G-20元500G | 18元100G-60元500G | 60元100G-200元500G | 25元100G | https://inv.easyfastcloud.com/#/register?code=HK0DBC31 | new，8折新用户优惠 | 
-| [魔界](https://www.mojie.me/#/register?code=NQlfUL1c) | 1元试用2G不限时 | 无 | 无 | 无 | 14.9元130G-688元10T | https://www.mojie.me/#/register?code=NQlfUL1c | 无 |
-
+| [EFCloud](https://inv.easyfastcloud.com/#/register?code=HK0DBC31) | 暂无 | 6元100G-20元500G | 18元100G-60元500G | 60元100G-200元500G | 25元100G | https://inv.easyfastcloud.com/#/register?code=HK0DBC31 | new，8折新用户优惠 | 
+| [魔界](https://www.mojie.me/#/register?code=NQlfUL1c) | 1元试用2G不限时 | 无 | 无 | 无 | 14.9元130G-688元10T | https://www.mojie.me/#/register?code=NQlfUL1c | 无 | 
 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=nJx4Rjq8) | 1元试用2G不限时 | 10元200G-20元600G | 24元200G-48元600G | 96元200G-192元600G | 10元200G-300元10T | https://feiniaoyun.xyz/#/register?code=nJx4Rjq8 | 无 |
 | [冲浪猫](https://b.msclm.net/#/register?code=oFspbShz) | 暂无 | 9.9元200G-39.99元1024G | 26.99元200G-118.99元1024G | 99.99元200G-399.99元1024G | 55.88元384G-308元5120G | https://b.msclm.net/#/register?code=oFspbShz | msclm618 |
 | [Airfree](https://airfree.space/auth/register?code=fac50cad2f) | 1元3天20G | 8元80G-12元200G | 36元660G | 140元3000G-256元6660G | 暂无 | https://airfree.space/auth/register?code=fac50cad2f | 85OFF91b22a25 |
