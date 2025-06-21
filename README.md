@@ -1,8 +1,8 @@
 ## 在线电视点播软件
 ### 免费白嫖一天的视频点播软件，有欧美大陆在线TV，有电影、电视剧等点播资源，还有隐形福利，你懂得。
 ### 使用方法：
-### 1、📥 软件唯一官方下载地址点击复制或者扫描二维码下载： http://file.newiptv.cc:7777/NewTV.apk
-![Uploading 下载.png…]()
+### 1、📥 软件唯一官方下载地址复制或者扫描二维码下载： http://file.newiptv.cc:7777/NewTV.apk
+![下载](https://github.com/user-attachments/assets/b2baa3d0-279c-4b1d-8148-7f8f77b3704b)
 
 ### 2、安装NewTV.apk软件
 ## 3、输入专属推荐码：887711
