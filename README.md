@@ -1,3 +1,15 @@
+# 在线电视点播软件
+### 免费白嫖一天的视频点播软件，有欧美大陆在线TV，有电影、电视剧等点播资源，还有隐形福利，你懂得。
+### 使用方法：
+### 1、📥 软件唯一官方下载地址点击复制或者扫描二维码下载： [点我复制](http://file.newiptv.cc:7777/NewTV.apk)
+### 2、安装NewTV.apk软件
+## 3、输入专属推荐码：887711
+
+####加入官方推荐人电报交流群，和众多推荐人一起交流推广技巧，并及时获取活动资讯。
+### 📢 欢迎加入推荐人交流电报群： https://t.me/newtv_club
+
+
+
 # airport
 ##翻墙机场推荐
 
@@ -32,12 +44,13 @@ https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ
 #### airfree平台(UX页面很漂亮):
 https://airfree.space/auth/register?code=fac50cad2f
 
-### efcloud平台(目前群主失联，谨慎注册)：
-https://www.easyfastcloud.com/#/register?code=HK0DBC31
-### 芝麻云平台，24年7月20日更新，停止付费通道，保留部分线路供未到期用户使用：
-https://zm666.cc
+
+### ~efcloud平台(目前群主失联，谨慎注册)：~
+~https://www.easyfastcloud.com/#/register?code=HK0DBC31~
+### ~芝麻云平台，24年7月20日更新，停止付费通道，保留部分线路供未到期用户使用：~
+~https://zm666.cc~
 （备用https://zm.zm123.top）
-#### 八方云平台(慎重！已跑路，价格虽然便宜，但是开了不到半年就跑路了，不厚道！我充的钱也没了):
-http://bafangyun.vip/#/register?code=KlQ19cWU
-#### 如介意，可在注册时去掉邀请码.
+### ~八方云平台(慎重！已跑路，价格虽然便宜，但是开了不到半年就跑路了，不厚道！我充的钱也没了):~
+~http://bafangyun.vip/#/register?code=KlQ19cWU~
+### ~如介意，可在注册时去掉邀请码.~
 
