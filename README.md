@@ -1,14 +1,15 @@
 ## 在线电视点播软件
 ### 免费白嫖一天的视频点播软件，无需翻墙，有欧美大陆在线直播TV(HBO、BBC、CNN、ESPN等)，有电影、电视剧等点播资源，还有隐形福利，你懂得。
 ### 使用方法（苹果手机暂不支持）：
-### 1、📥 软件唯一官方下载地址复制或者扫描二维码下载： http://file.newiptv.cc:7777/NewTV.apk
-![下载](https://github.com/user-attachments/assets/b2baa3d0-279c-4b1d-8148-7f8f77b3704b)
+### 1、📥 新版本软件下载地址： http://file.newiptv.cc:7777/new.apk        （新版本每次看15分钟，到期重进App即可，无只能看一天的限制。）
+### 注：老版本软件下载地址： http://file.newiptv.cc:7777/NewTV.apk
 ### 2、安装NewTV.apk软件
 ## 3、输入专属推荐码：887711
 #### 注：
 ##### 1)特殊福利密码都是6个8;
 ##### 2)试看觉得还不错可以付费充值：一个月30元、一季度85元、半年159元、一年298元
-##### 3）到期后，可以在手机系统创建子用户，在子用户空间安装软件可以多看一天：）
+##### 3）新版本每次可以看15分钟，到时间退出App重新进入即可。
+##### 老版本到期后，可以在手机系统创建子用户，在子用户空间安装软件可以多看一天：）
 
 #
 
@@ -36,7 +37,7 @@ https://xs-us.xyz/register?code=hwARE7sB
 ### 除此以外还有其他的平台大家都可以试试：
 
 #### 魔界(可以根据流量购买)
-https://www.mojie.me/#/register?code=NQlfUL1c
+https://mojie.app/register?aff=NQlfUL1c
 #### 飞鸟云(可先免费订阅，之后也可以按流量购买)
 https://feiniaoyun.xyz/#/register?code=nJx4Rjq8
 #### 冲浪猫（月付9块9，包流量55元384G，618限时8折优惠券msclm618）：
