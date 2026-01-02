@@ -25,7 +25,7 @@
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :-----|
 | [XSUS](https://xs-us.xyz/register?code=hwARE7sB) | 暂无 | 8元168G | 16元336G | 20元420G | 58元188G-220元1024G | https://xs-us.xyz/register?code=hwARE7sB | NewYear2025，85折新用户优惠 |
 | [魔界](https://mojie.app/register?aff=NQlfUL1c) | 1元试用2G不限时 | 无 | 无 | 无 | 14.9元130G-688元10T | https://mojie.app/register?aff=NQlfUL1c | [最新地址](https://github.com/jdnei/mojie) 邀请码：wfVs0vWP | 
-| [一元机场](https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ) | 暂无 | 4元4000G-6元8000G | 无 | 11元100G,39元4000G-59元8000G | 无 | https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ | 无 | 
+| [一元机场](https://xn--4gq62f.com/#/register?code=f8WYLMS6) | 暂无 | 4元4000G-6元8000G | 无 | 11元100G,39元4000G-59元8000G | 无 | https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ | 无 | 
 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=nJx4Rjq8) | 1元试用2G不限时 | 10元200G-20元600G | 24元200G-48元600G | 96元200G-192元600G | 10元200G-300元10T | https://feiniaoyun.xyz/#/register?code=nJx4Rjq8 | 无 |
 | [冲浪猫](https://gjpheero.goclm.me/#/register?code=oFspbShz) | 暂无 | 9.9元200G-39.99元1024G | 26.99元200G-118.99元1024G | 99.99元200G-399.99元1024G | 55.88元384G-308元5120G | https://gjpheero.goclm.me/#/register?code=oFspbShz | msclm618 |
 | [Airfree](https://airfree.space/auth/register?code=fac50cad2f) | 1元3天20G | 8元80G-12元200G | 36元660G | 140元3000G-256元6660G | 暂无 | https://airfree.space/auth/register?code=fac50cad2f | 85OFF91b22a25 |
@@ -47,6 +47,7 @@ https://feiniaoyun.xyz/#/register?code=nJx4Rjq8
 #### 冲浪猫（月付9块9，包流量55元384G，618限时8折优惠券msclm618）：
 https://uuclm.net/#/register?code=oFspbShz
 #### 一元机场(年付11，很便宜，据说网络一般)
+https://xn--4gq62f.com/#/register?code=f8WYLMS6
 https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ
 #### airfree平台(UX页面很漂亮):
 https://airfree.space/auth/register?code=fac50cad2f
