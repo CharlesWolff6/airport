@@ -24,6 +24,7 @@
 | 名称 | 免费/试用套餐 | 包月套餐 | 包季度套餐 | 包年套餐 | 包流量套餐 | 邀请链接 | 优惠码 |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :-----|
 | [XSUS](https://xs-us.xyz/register?code=hwARE7sB) | 暂无 | 8元168G | 16元336G | 20元420G | 58元188G-220元1024G | https://xs-us.xyz/register?code=hwARE7sB | NewYear2025，85折新用户优惠 |
+| [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=xtlCqEqK) | 暂无 | 2元100G-35元10000G | 无 | 35元100G-419.88元10000G | 11.88元100G-59.88元5000G | https://xn--4gqx1hgtfdmt.com/#/register?code=xtlCqEqK | 无 |
 | [Sororain](https://dash.m9vip.net/#/register?code=qH2lcRjO) | 暂无 | 15.88元150G-90.88元900G | 45元150G-270元900G | 90.88元150G-898元900G | 暂无 | https://dash.m9vip.net/#/register?code=qH2lcRjO | 无 |
 | [SKYLUMO](https://skylumo.com/#/register?code=sQZfknSd) | 暂无 | 3.99元50G | 暂无 | 9.99元50G | 9.9元50G-299元100wG | https://skylumo.com/#/register?code=sQZfknSd | 无 |
 | [魔界](https://mojie.app/register?aff=NQlfUL1c) | 1元试用2G不限时 | 无 | 无 | 无 | 14.9元130G-688元10T | https://mojie.app/register?aff=NQlfUL1c | [最新地址](https://github.com/jdnei/mojie) 邀请码：wfVs0vWP | 
@@ -41,11 +42,17 @@
 ### XSUS平台(替换EFCloud)：
 https://xs-us.xyz/register?code=hwARE7sB
 
+### 一分机场
+https://xn--4gqx1hgtfdmt.com/#/register?code=xtlCqEqK
+
+###  SoroRain
+https://dash.m9vip.net/#/register?code=qH2lcRjO
+
+### SKYLUMO
+https://skylumo.com/#/register?code=sQZfknSd 
+
 ### 全球云
 https://gc01.globalyun.cc/#/?code=sNytuDv0
-
-###SKYLUMO
-https://skylumo.com/#/register?code=sQZfknSd 
 
 ### 除此以外还有其他的平台大家都可以试试：
 
