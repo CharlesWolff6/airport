@@ -24,10 +24,11 @@
 | 名称 | 免费/试用套餐 | 包月套餐 | 包季度套餐 | 包年套餐 | 包流量套餐 | 邀请链接 | 优惠码 |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :-----|
 | [XSUS](https://xs-us.xyz/register?code=hwARE7sB) | 暂无 | 8元168G | 16元336G | 20元420G | 58元188G-220元1024G | https://xs-us.xyz/register?code=hwARE7sB | NewYear2025，85折新用户优惠 |
-| [全球云](https://forever.gcvipaff.cc/#/?code=sNytuDv0) | 暂无 | 20元120G-600元500G | 54元120G-486元1.5T | 99元59G-1728元1.5T | 暂无 | https://forever.gcvipaff.cc/#/?code=sNytuDv0 | 新人8折券：qq88 |
+| [Sororain](https://dash.m9vip.net/#/register?code=qH2lcRjO) | 暂无 | 15.88元150G-90.88元900G | 45元150G-270元900G | 90.88元150G-898元900G | 暂无 | https://dash.m9vip.net/#/register?code=qH2lcRjO | 无 |
 | [SKYLUMO](https://skylumo.com/#/register?code=sQZfknSd) | 暂无 | 3.99元50G | 暂无 | 9.99元50G | 9.9元50G-299元100wG | https://skylumo.com/#/register?code=sQZfknSd | 无 |
 | [魔界](https://mojie.app/register?aff=NQlfUL1c) | 1元试用2G不限时 | 无 | 无 | 无 | 14.9元130G-688元10T | https://mojie.app/register?aff=NQlfUL1c | [最新地址](https://github.com/jdnei/mojie) 邀请码：wfVs0vWP | 
 | [一元机场](https://xn--4gq62f.com/#/register?code=f8WYLMS6) | 暂无 | 4元4000G-6元8000G | 无 | 11元100G,39元4000G-59元8000G | 无 | https://xn--4gq62f52gdss.com/#/register?code=PkMafkyZ | 无 | 
+| [全球云](https://forever.gcvipaff.cc/#/?code=sNytuDv0) | 暂无 | 20元120G-600元500G | 54元120G-486元1.5T | 99元59G-1728元1.5T | 暂无 | https://forever.gcvipaff.cc/#/?code=sNytuDv0 | 目前必须用它自己的客户端，新人8折券：qq88 |
 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=nJx4Rjq8) | 1元试用2G不限时 | 10元200G-20元600G | 24元200G-48元600G | 96元200G-192元600G | 10元200G-300元10T | https://feiniaoyun.xyz/#/register?code=nJx4Rjq8 | 无 |
 | [冲浪猫](https://gjpheero.goclm.me/#/register?code=oFspbShz) | 暂无 | 9.9元200G-39.99元1024G | 26.99元200G-118.99元1024G | 99.99元200G-399.99元1024G | 55.88元384G-308元5120G | https://gjpheero.goclm.me/#/register?code=oFspbShz | msclm618 |
 | [Airfree](https://airfree.space/auth/register?code=fac50cad2f) | 1元3天20G | 8元80G-12元200G | 36元660G | 140元3000G-256元6660G | 暂无 | https://airfree.space/auth/register?code=fac50cad2f | 85OFF91b22a25 |
